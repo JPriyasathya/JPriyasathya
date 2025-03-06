@@ -11,7 +11,10 @@
 - 📊 Immersed in **Advanced Data Analytics**, uncovering patterns, and harnessing **Machine Learning** to solve real-world problems.  
 - 💡 Enthusiastic about **Data Storytelling, Predictive Modeling, and Innovative Web Solutions**.  
 - 📬 Reach out: <a href="mailto:priyadharshinichenniappan@gmail.com">priyadharshinichenniappan@gmail.com</a>  
-- 🌍 Let’s connect on **[LinkedIn](www.linkedin.com/in/priyadharshini-chenniappan)**  
+- 🌍 Let’s connect on **[LinkedIn](www.linkedin.com/in/
+priyadharshini-chenniappan
+
+)**  
 - ✨ **"Data is more than numbers—it's the key to unlocking powerful stories and insights!"**  
 
 ---
